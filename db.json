@@ -1,9 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+"room":[
+      {
+        "id": "1",
+        "name": "Deluxe Ocean View",
+        "description": "Bask in luxury with breathtaking ocean views from your private suite",
+        "price": "KSH:10,000/Night",
+        "image": "Images/room1.1.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Executive Cityscape Room",
+        "description": "Experience urban elegance and modern comfort in the heart of the city.",
+        "price": "KSH:15,000/Night",
+        "image": "Images/room2.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Family Garden Retreat",
+        "description": "Spacious and inviting, perfect for creating cherished memories with loved ones",
+        "price": "KSH:20,000/Night",
+        "image": "Images/room3.jpg"
+      }
+    ]}
